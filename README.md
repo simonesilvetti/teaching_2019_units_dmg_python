@@ -12,9 +12,11 @@ _______________________________________________________________
 - Aprile: 2 - 9 - 16 - 23
 - Maggio: 14 - 21 - 28 
 <!-- Giugno:  4 - 11 - 18 -->
+
+A breve verranno definiti i gruppi
 _______________________________________________________________
 
-### Programma del corso
+### Programma (ristretto) del corso
 - Introduzione ai linguaggi di programmazione
 - Python: le basi
   - idle/shell e Jupyter Notebook
@@ -49,6 +51,14 @@ _______________________________________________________________
 
 #### Modalità d'esame
 ###### Esercizi + Esoneri
-Verranno consegnati degli esercizi da svolgere e spedire per email al docente. Chi li svolge tutti  ha la possibilità di partecipare a due esoneri (esercizi da svolgere in laboratorio, uno a metà corso e uno alla fine del corso). L'esito degli esoneri determinerà il superamento o meno dell'esame. 
+Verranno consegnati degli esercizi da svolgere e spedire per email al docente (vedi istruzioni qui sotto). Chi svolge tutti gli esercizi assegnati ha la possibilità di partecipare a due esoneri (esercizi da svolgere in laboratorio, uno a metà e uno alla fine del corso). L'esito degli esoneri determinerà il superamento o meno dell'esame. 
 ###### Esame finale
-L'esame finale consiste nello svolgere una serie di esercizi sul computer del laboratorio. 
+L'esame finale consiste nello svolgere una serie di esercizi sul computer del laboratorio.
+
+###### Istruzioni per la consegna degli esercizi
+Se il dicente assegna il foglio di Esercizi n°2, lo studente Mario Rossi dovrà mandare una mail a <img src="https://github.com/simonesilvetti/personal/blob/master/email.png" height="20">
+- Oggetto: LDP - Rossi Mario - Esercizi 2
+- Testo: (non dovete scrivere nulla)
+- Allegato: `LDP_Rossi_Mario_Esercizi_2.ipynb` (contenente le soluzioni del foglio di esercizi assegnato)
+
+
