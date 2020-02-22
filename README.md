@@ -44,8 +44,8 @@ _______________________________________________________________
   - [traduzione](https://github.com/AllenDowney/ThinkPythonItalian) italiana (versione pdf) di Andrea Zanella
   - [traduzione](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm) italiana (versione web) di Alessandro Pocaterra
   - [versione interattiva](http://interactivepython.org/courselib/static/thinkcspy/index.html) in inglese della Runestone Interactive Project
-  - [Video tutorial](https://www.youtube.com/watch?v=KDA6MKh03bw) su Jupyter notebook in italiano.
-  - [Video tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) su Jupyter lab in inglese.
+* [Video tutorial](https://www.youtube.com/watch?v=KDA6MKh03bw) su Jupyter notebook in italiano.
+* [Video tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) su Jupyter lab in inglese.
 
 #### Modalità d'esame
 ###### Esercizi + Esoneri
