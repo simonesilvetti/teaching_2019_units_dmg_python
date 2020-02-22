@@ -33,14 +33,14 @@ _______________________________________________________________
 * **Versione di Python:** in laboratorio troverete installato Python 3.7. A casa potete scaricare l'ultima versione, ovvero la 3.8. Per il corso è indifferente quale delle due versioni userete.  
 * **Installazione:** tutti i pacchetti necessari per il corso (i.e., Python 3.7, Jupyter ed altri) li trovate nelle distribuzione di Anaconda (https://www.anaconda.com/distribution/), che potete scaricare e installare. Per ora Anaconda è rilasicata con Python 3.7 (a breve verrà rilasciata la versione per Python 3.8)
 * **Esecuzione Jupyter lab:**
-    * **Windows**: se non trovate jupyter nella lista dei programmi cercate  anaconda promt ed eseguitelo. Apparirà un shell (simile al cmd di Windows), scrivete jupyter lab e premete invio. 
+    * **Windows**: se non trovate jupyter nella lista dei programmi cercate  anaconda promt ed eseguitelo. Apparirà un shell (simile al cmd di Windows), scrivete `jupyter lab` e premete invio. 
     * **Mac OS X**: eseguite Anaconda Navigator (lo trovate in Applicazioni), cliccate Jupyter lab.  
-    * **Linux**: eseguite il comando jupyter lab direttamente dalla shell.
+    * **Linux**: eseguite il comando `jupyter lab` direttamente dalla shell.
 
 #### Materiale online ###
 * [Sito](http://www.python.it/) web della comunità italiana di Python
 * [Tutorial](https://docs.python.org/3/tutorial/index.html) ufficiale in inglese (scegliete la versione di Python che avete installato)
-* How to Think Like a Computer Scientist, Learning with Python, A. Downey J. Elkner C. Meyers
+* A. Downey J. Elkner C. Meyers, How to Think Like a Computer Scientist, Learning with Python.
   - [traduzione](https://github.com/AllenDowney/ThinkPythonItalian) italiana (versione pdf) di Andrea Zanella
   - [traduzione](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm) italiana (versione web) di Alessandro Pocaterra
   - [versione interattiva](http://interactivepython.org/courselib/static/thinkcspy/index.html) in inglese della Runestone Interactive Project
