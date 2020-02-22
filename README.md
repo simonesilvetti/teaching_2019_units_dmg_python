@@ -56,7 +56,7 @@ Verranno consegnati degli esercizi da svolgere e spedire per email al docente (v
 L'esame finale consiste nello svolgere una serie di esercizi sul computer del laboratorio.
 
 ###### Istruzioni per la consegna degli esercizi
-Se il dicente assegna il foglio di Esercizi n°2, lo studente Mario Rossi dovrà mandare una mail a <img src="https://github.com/simonesilvetti/personal/blob/master/email.png" height="20">
+Se il dicente assegna il foglio di Esercizi n°2, lo studente Mario Rossi dovrà mandare una mail a <img src="https://github.com/simonesilvetti/personal/blob/master/email.png" height="20">, con: 
 - Oggetto: LDP - Rossi Mario - Esercizi 2
 - Testo: (non dovete scrivere nulla)
 - Allegato: `LDP_Rossi_Mario_Esercizi_2.ipynb` (contenente le soluzioni del foglio di esercizi assegnato)
