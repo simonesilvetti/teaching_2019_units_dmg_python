@@ -3,10 +3,10 @@
 _______________________________________________________________
 ### Orario Lezioni
 #### Gruppo 1 (martedì) - 16:00 - 18:00 - Aula informatica 3A, H2bis, DMG ###
-- Marzo: 3 - 10 \[?\] - 17 - 24 - 31
-- Aprile: 7 - 14 - 21 - 28
+- Marzo: 3 - \[10| 13\] - 17 - 24 - 31
+- Aprile: 7 - 14 - 21 
 - Maggio: 12 - 19 - 26 
-- Giugno: 9 \[?\] <!--  - 16 -->
+<!--- Giugno: 9 \[?\]   - 16 -->
 #### Gruppo 2 (giovedì) - 16:00 - 18:00 - Aula informatica 3A, H2bis, DMG ###
 - Marzo: 5 - 12 - 19 - 26
 - Aprile: 2 - 9 - 16 - 23
