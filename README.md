@@ -19,8 +19,6 @@ Se avete problemi di orario fatemi sapere. In linea di massima se volete cambiar
 - Aprile: 2 - 9 - 16 - 23
 - Maggio: 14 - 21 - 28 
 <!-- Giugno:  4 - 11 - 18 -->
-
-A breve verranno definiti i gruppi
 _______________________________________________________________
 
 ### Programma (ristretto) del corso
