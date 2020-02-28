@@ -10,15 +10,15 @@ Se avete problemi di orario fatemi sapere. In linea di massima se volete cambiar
 
 ### Orario Lezioni
 #### Gruppo 1 - Studenti A-G - (martedì) - 16:00 - 18:00 - Aula informatica 3A, H2bis, DMG ###
-- Marzo: 3 - \[10| 13\] - 17 - 24 - 31
+- Marzo:  10 - 17 - 24 - 31
 - Aprile: 7 - 14 - 21 
 - Maggio: 12 - 19 - 26 
-<!--- Giugno: 9 \[?\]   - 16 -->
+- Giugno: 9 <!-- \[?\]   - 16 -->
 #### Gruppo 2 - Studenti H-Z - (giovedì) - 16:00 - 18:00 - Aula informatica 3A, H2bis, DMG ###
-- Marzo: 5 - 12 - 19 - 26
+- Marzo:  12 - 19 - 26
 - Aprile: 2 - 9 - 16 - 23
 - Maggio: 14 - 21 - 28 
-<!-- Giugno:  4 - 11 - 18 -->
+- Giugno:  4 <!--  - 11 - 18 -->
 _______________________________________________________________
 
 ### Programma (ristretto) del corso
