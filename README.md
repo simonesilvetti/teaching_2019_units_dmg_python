@@ -1,6 +1,7 @@
 # LABORATORIO DI PROGRAMMAZIONE 2019 - 2020
 ## Simone Silvetti, DMG, Università di Trieste
 _______________________________________________________________
+# NB: Le lezioni sono sopese fino ad ulteriore comunicazione. 
 Cari studenti, 
 verrete divisi in due gruppi. 
 - Gruppo 1 (martedì - 16:00 - 18:00): studenti con iniziale del cognome dalla A alla G (inclusa)
