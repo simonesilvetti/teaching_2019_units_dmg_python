@@ -1,25 +1,24 @@
 # LABORATORIO DI PROGRAMMAZIONE 2019 - 2020
 ## Simone Silvetti, DMG, Università di Trieste
 _______________________________________________________________
-# NB: Le lezioni sono sopese fino ad ulteriore comunicazione. 
-Cari studenti, 
-verrete divisi in due gruppi. 
-- Gruppo 1 (martedì - 16:00 - 18:00): studenti con iniziale del cognome dalla A alla G (inclusa)
-- Gruppo 2 (giovedì - 16:00 - 18:00): tutti gli altri (i.e., studenti con iniziale del cognome dalla H alla Z)  
 
-Se avete problemi di orario fatemi sapere. In linea di massima se volete cambiare giorno e trovate un vostro collega che vuole cambiare giorno in "senso cotrario" potete farlo, basta che mi notificate la cosa per email o a voce.  
+### Calendario delle Lezioni
+| Lezione  | Data | Ora
+|---|---|---|
+| 1  | 13/03/2020  | 15:30 |
+| 2  | 17/03/2020  | 15:30 |
+| 3  |... | ... |
+| 4  |... | ... |
+| 5  |... | ... |
+| 6  |... | ... |
+| 7  |... | ... |
+| 8  |... | ... |
+| 9  |... | ... |
+| 10  |... | ... |
+| 11  |... | ... |
+| 12  |... | ... |
 
-### Orario Lezioni
-#### Gruppo 1 - Studenti A-G - (martedì) - 16:00 - 18:00 - Aula informatica 3A, H2bis, DMG ###
-- Marzo:  10 - 17 - 24 - 31
-- Aprile: 7 - 14 - 21 
-- Maggio: 12 - 19 - 26 
-- Giugno: 9 <!-- \[?\]   - 16 -->
-#### Gruppo 2 - Studenti H-Z - (giovedì) - 16:00 - 18:00 - Aula informatica 3A, H2bis, DMG ###
-- Marzo:  12 - 19 - 26
-- Aprile: 2 - 9 - 16 - 23
-- Maggio: 14 - 21 - 28 
-- Giugno:  4 <!--  - 11 - 18 -->
+Per il momento le lezioni si svolgeranno in modalità telematica,utilizzando Microsoft Teams.
 _______________________________________________________________
 
 ### Programma (ristretto) del corso
