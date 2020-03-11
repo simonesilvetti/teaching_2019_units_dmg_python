@@ -19,6 +19,7 @@ _______________________________________________________________
 | 12  |... | ... |
 
 Per il momento le lezioni si svolgeranno in modalità telematica,utilizzando Microsoft Teams.
+Utilizzeremo un programma che si chiama _Anaconda_, siete pregati di scaricarlo ed installarlo seguendo le istruzione al seguente [link](https://docs.anaconda.com/anaconda/install/). Se non riuscite, durante il corso della prima lezione cercherò di illustrare il processo di installazione.  
 _______________________________________________________________
 
 ### Programma (ristretto) del corso
