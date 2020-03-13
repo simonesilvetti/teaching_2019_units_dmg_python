@@ -1,19 +1,25 @@
 # LABORATORIO DI PROGRAMMAZIONE 2019 - 2020
 ## Simone Silvetti, DMG, Università di Trieste
 _______________________________________________________________
-### Orario Lezioni
-#### Gruppo 1 (martedì) - 16:00 - 18:00 - Aula informatica 3A, H2bis, DMG ###
-- Marzo: 3 - 10 \[?\] - 17 - 24 - 31
-- Aprile: 7 - 14 - 21 - 28
-- Maggio: 12 - 19 - 26 
-- Giugno: 9 \[?\] <!--  - 16 -->
-#### Gruppo 2 (giovedì) - 16:00 - 18:00 - Aula informatica 3A, H2bis, DMG ###
-- Marzo: 5 - 12 - 19 - 26
-- Aprile: 2 - 9 - 16 - 23
-- Maggio: 14 - 21 - 28 
-<!-- Giugno:  4 - 11 - 18 -->
 
-A breve verranno definiti i gruppi
+### Calendario delle Lezioni
+| Lezione  | Data | Ora
+|---|---|---|
+| 1  | 13/03/2020  | 15:30 |
+| 2  | 17/03/2020  | 15:30 |
+| 3  |... | ... |
+| 4  |... | ... |
+| 5  |... | ... |
+| 6  |... | ... |
+| 7  |... | ... |
+| 8  |... | ... |
+| 9  |... | ... |
+| 10  |... | ... |
+| 11  |... | ... |
+| 12  |... | ... |
+
+Per il momento le lezioni si svolgeranno in modalità telematica,utilizzando Microsoft Teams.
+Utilizzeremo un programma che si chiama _Anaconda_, siete pregati di scaricarlo ed installarlo seguendo le istruzione al seguente [link](https://docs.anaconda.com/anaconda/install/). Se non riuscite, durante il corso della prima lezione cercherò di illustrare il processo di installazione.  
 _______________________________________________________________
 
 ### Programma (ristretto) del corso
