@@ -1,7 +1,7 @@
 # LABORATORIO DI PROGRAMMAZIONE 2019 - 2020
 ## Simone Silvetti, DMG, Università di Trieste
 _______________________________________________________________
-
+[Link](https://web.microsoftstream.com/channel/d80e37bb-be71-4dc7-83f7-4514a4a3d24c) al Channel del corso.
 ### Calendario delle Lezioni
 | Lezione  | Data | Ora
 |---|---|---|
