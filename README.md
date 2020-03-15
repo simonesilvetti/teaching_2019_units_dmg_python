@@ -1,7 +1,9 @@
 # LABORATORIO DI PROGRAMMAZIONE 2019 - 2020
 ## Simone Silvetti, DMG, Università di Trieste
 _______________________________________________________________
-[Link](https://web.microsoftstream.com/channel/d80e37bb-be71-4dc7-83f7-4514a4a3d24c) al Channel del corso.
+#### Link Utili
+[Link](https://web.microsoftstream.com/channel/d80e37bb-be71-4dc7-83f7-4514a4a3d24c) al channel Microsoft Stream del corso (accesso riservato).  
+[mybinder]( https://mybinder.org/v2/gh/simonesilvetti/teaching_2019_units_dmg_python/master) per visualizzare questo repository in modalità eseguibile. 
 ### Calendario delle Lezioni
 | Lezione  | Data | Ora
 |---|---|---|
