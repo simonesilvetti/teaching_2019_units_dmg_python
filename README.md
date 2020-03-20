@@ -58,16 +58,5 @@ _______________________________________________________________
 * [Video tutorial](https://www.youtube.com/watch?v=KDA6MKh03bw) su Jupyter notebook in italiano.
 * [Video tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) su Jupyter lab in inglese.
 
-#### Modalità d'esame
-###### Esercizi + Esoneri
-Verranno consegnati degli esercizi da svolgere e spedire per email al docente (vedi istruzioni qui sotto). Chi svolge tutti gli esercizi assegnati ha la possibilità di partecipare a due esoneri (esercizi da svolgere in laboratorio, uno a metà e uno alla fine del corso). L'esito degli esoneri determinerà il superamento o meno dell'esame. 
-###### Esame finale
-L'esame finale consiste nello svolgere una serie di esercizi sul computer del laboratorio.
-
-###### Istruzioni per la consegna degli esercizi
-Se il dicente assegna il foglio di Esercizi n°2, lo studente Mario Rossi dovrà mandare una mail a <img src="https://github.com/simonesilvetti/personal/blob/master/email.png" height="20">, con: 
-- Oggetto: LDP - Rossi Mario - Esercizi 2
-- Testo: (non dovete scrivere nulla)
-- Allegato: `LDP_Rossi_Mario_Esercizi_2.ipynb` (contenente le soluzioni del foglio di esercizi assegnato)
 
 
