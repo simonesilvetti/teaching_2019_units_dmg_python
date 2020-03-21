@@ -1,3 +1,4 @@
+## Programma esteso del corso di "Laboratorio di Programmazione"
 * Introduzione a Python
   - Cos'è un linguaggio di programmazione? 
   - Paradigmi di programmazione: procedurale, strutturato, ad oggetti e funzionale
