@@ -5,23 +5,23 @@ _______________________________________________________________
 [Link](https://web.microsoftstream.com/channel/d80e37bb-be71-4dc7-83f7-4514a4a3d24c) al channel Microsoft Stream del corso (accesso riservato).  
 [mybinder]( https://mybinder.org/v2/gh/simonesilvetti/teaching_2019_units_dmg_python/master) per visualizzare questo repository in modalità eseguibile. 
 ### Calendario delle Lezioni
-| Lezione  | Data | Ora
+| Lezione  | Data | Ora |
 |---|---|---|
 | 1 :heavy_check_mark:  | 13/03/2020  | 15:30 |
 | 2 :heavy_check_mark: | 17/03/2020  | 16:05 |
 | 3  | 24/03/2020 | 16:05 |
-| 4  |... | ... |
-| 5  |... | ... |
-| 6  |... | ... |
-| 7  |... | ... |
+| 4  |26/03/2020 | Video |
+| 5  |31/03/2020 | 16:05 |
+| 6 - 12  |... | ... |
+<!--| 7  |... | ... |
 | 8  |... | ... |
 | 9  |... | ... |
 | 10  |... | ... |
 | 11  |... | ... |
-| 12  |... | ... |
+| 12  |... | ... | -->
 
-Per il momento le lezioni si svolgeranno in modalità telematica,utilizzando Microsoft Teams.
-Utilizzeremo un programma che si chiama _Anaconda_, siete pregati di scaricarlo ed installarlo seguendo le istruzione al seguente [link](https://docs.anaconda.com/anaconda/install/). Se non riuscite, durante il corso della prima lezione cercherò di illustrare il processo di installazione.  
+Le lezioni si svolgeranno in modalità telematica utilizzando [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software).
+Utilizzeremo un programma che si chiama _Anaconda_, siete pregati di scaricarlo ed installarlo seguendo le istruzione al seguente [link](https://docs.anaconda.com/anaconda/install/) o sul [canale](https://web.microsoftstream.com/channel/d80e37bb-be71-4dc7-83f7-4514a4a3d24c).
 _______________________________________________________________
 
 ### Programma (ristretto) del corso
@@ -58,5 +58,5 @@ _______________________________________________________________
 * [Video tutorial](https://www.youtube.com/watch?v=KDA6MKh03bw) su Jupyter notebook in italiano.
 * [Video tutorial](https://www.youtube.com/watch?v=7wfPqAyYADY) su Jupyter lab in inglese.
 
-
-
+#### Esercizi
+Verranno proposti degli esercizi settimanali tramite la piattaforma Teams. Maggiorni istruzioni verranno fornite a lezione.
