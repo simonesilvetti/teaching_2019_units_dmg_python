@@ -5,8 +5,8 @@
   - Linguaggio interpretato vs compilato 
   - Tipizzazione statica vs dinamica
   - Le motivazioni che hanno portato alla creazione di Python
-  - Perchè chiamarlo Python?  
-  - Perchè insegnarlo in università? 
+  - Perché chiamarlo Python?  
+  - Perché insegnarlo in università? 
   - Ecosistema Python: Python core, Scipy e Jupyter lab
   - Installazione di Anaconda
 * Piccola introduzione al codice MarkDown
