@@ -25,6 +25,7 @@ Utilizzeremo un programma che si chiama _Anaconda_, siete pregati di scaricarlo 
 _______________________________________________________________
 
 ### Programma (ristretto) del corso
+([link](/programma_esteso.md) al programma esteso)
 - Introduzione ai linguaggi di programmazione
 - Python: le basi
   - idle/shell e Jupyter Notebook
