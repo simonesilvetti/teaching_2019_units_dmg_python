@@ -45,5 +45,7 @@
   - Funzioni ricorsive
     - ricorsione diretta, indiretta e multipla
     - stack di una funzione ricorsiva
-    
+  - Iterazioni
+    - ciclo `for` e funzione `range`
+    - while
     
