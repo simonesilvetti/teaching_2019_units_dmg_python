@@ -17,8 +17,8 @@ _______________________________________________________________
 | 8 :heavy_check_mark:|16/04/2020 | 16:05 |
 | 9 :heavy_check_mark: |23/04/2020 | 16:05 |
 | 10 :heavy_check_mark: (1h) |26/04/2020 | Video |
-| 11 |30/04/2020 | 16:05 |
-| 12 |... | ... |
+| 11 :heavy_check_mark: |30/04/2020 | 16:05 |
+| 12 |07/04/2020 | 16:05 |
 | 13 |... | ... |
 
 Le lezioni si svolgeranno in modalità telematica utilizzando [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software).
