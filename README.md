@@ -20,7 +20,7 @@ _______________________________________________________________
 | 11 :heavy_check_mark: |30/04/2020 | 16:05 |
 | 12 :heavy_check_mark: (1h)|07/05/2020 | 16:05 |
 | 13 :heavy_check_mark: (1h) |14/05/2020 | Video |
-| 14 |21/05/2020 | 16:05 |
+| 14 |21/05/2020 | 15:30 |
 
 Le lezioni si svolgeranno in modalità telematica utilizzando [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software).
 Utilizzeremo un programma che si chiama _Anaconda_, siete pregati di scaricarlo ed installarlo seguendo le istruzione al seguente [link](https://docs.anaconda.com/anaconda/install/) o sul [canale](https://web.microsoftstream.com/channel/d80e37bb-be71-4dc7-83f7-4514a4a3d24c).
